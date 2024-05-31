@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avassaa" alt="avassaa" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, MySQL, C++**
+- 🌱 I’m currently learning **Kotlin,C++**
 
 - 💬 Ask me about **Machine Learning**
 
