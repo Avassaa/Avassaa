@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin,C++**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning**.
 
 - 📫 How to reach me **tutuncubaha@gmail.com**
 
