@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning**.
 
-- 📫 How to reach me **tutuncubaha@gmail.com**
+- 📫 How to reach me **tutuncubaha@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
